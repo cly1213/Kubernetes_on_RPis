@@ -1,5 +1,5 @@
 # Kubernetes on Raspberry Pi
-<img src="https://github.com/cly1213/Kubernetes_on_RPis/blob/main/pictures/Picture1.png"
+<img src="https://github.com/cly1213/Kubernetes_on_RPis/blob/main/pictures/Picture1.png">
 
 ## K3s
 https://k3s.io/
